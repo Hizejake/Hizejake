@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hizejake.
 - 👀 I’m interested in Software Development ML and AI development.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java,C,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arpanmukherjee965@gmail.com
 
