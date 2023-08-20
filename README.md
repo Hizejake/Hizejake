@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hizejake.
+- 👋 Hi, I’m @Arpan_Mukherjee.
 - 👀 I’m interested in Software Development ML and AI development.
 - 🌱 I’m currently learning Java,C,Python
 - 💞️ I’m looking to collaborate on ...
